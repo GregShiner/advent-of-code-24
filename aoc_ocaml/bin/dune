@@ -2,3 +2,7 @@
  (public_name day1)
  (name day1)
  (libraries aoc_ocaml core))
+(executable
+ (public_name day2)
+ (name day2)
+ (libraries aoc_ocaml core))
