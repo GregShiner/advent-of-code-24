@@ -1,5 +1,5 @@
 open Core
-let filename = "input"
+let filename = "inputs/day1"
 
 let lines = In_channel.read_lines filename
 
